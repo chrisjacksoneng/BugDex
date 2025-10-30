@@ -13,15 +13,5 @@ A mobile-friendly bug collecting and identification app - "Pokemon GO for bugs!"
 ## Tech Stack
 
 - Pure HTML, CSS, and JavaScript
-- Local storage for data persistence
 - Mobile-responsive design
-- No backend required
-
-## Getting Started
-
-Simply open `index.html` in your web browser to get started!
-
-## Team
-
-Team 16
 
